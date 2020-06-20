@@ -14,4 +14,4 @@ Material-UI React UI framework
 <em>Landing page screenshot for small screen devices</em>
 
 ## API reference
-Receipe search API used. Provided by [Edamam](https://www.edamam.com/).
+Recipe search API used. Provided by [Edamam](https://www.edamam.com/).
